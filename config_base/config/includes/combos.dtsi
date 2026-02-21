@@ -141,7 +141,7 @@
       layers = <BASE BASE_QWERTY>;
 
 #ifdef HAS_CAPSLOCK
-      bindings = <&caps_word >;
+      bindings = <&caps_word_capslock >;
 #else
       bindings = <&caps_word>;
 #endif
