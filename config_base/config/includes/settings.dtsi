@@ -35,7 +35,7 @@
 };
 
 #ifdef HAS_CAPSLOCK
-    &caps_word_capslock {
+    &caps_word {
         disable-on-keys = <
             SPACE TAB ENTER ESCAPE
             COMMA DOT SEMI COLON QUESTION EXCLAMATION
